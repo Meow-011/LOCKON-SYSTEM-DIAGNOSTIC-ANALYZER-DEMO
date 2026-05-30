@@ -1,4 +1,4 @@
-#  LOCKON: SYSTEM DIAGNOSTIC ANALYZER
+#  LOCKON: SYSTEM DIAGNOSTIC ANALYZER (DEMO)
 
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Language](https://img.shields.io/badge/Language-PowerShell_5.1%2B-2C5BB4?style=flat-square&logo=powershell&logoColor=white)
