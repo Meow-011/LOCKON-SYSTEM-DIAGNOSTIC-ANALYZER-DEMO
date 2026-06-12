@@ -1,7 +1,7 @@
 # ⚠️ LOCKON: SYSTEM DIAGNOSTIC ANALYZER (LEGACY DEMO)
 
 > [!IMPORTANT]
-> **This is the Legacy / Demo version of LOCKON.**
+> **This is the Legacy / Demo version of LOCKON SDA.**
 >
 > This repository contains the original PowerShell-only proof-of-concept and is kept for historical reference.
 >
