@@ -1,22 +1,36 @@
-# ⚠️ LOCKON: SYSTEM DIAGNOSTIC ANALYZER (LEGACY DEMO)
+<div align="center">
 
-> [!IMPORTANT]
+# ⚠️ LOCKON: SYSTEM DIAGNOSTIC ANALYZER
+
+### (LEGACY DEMO)
+
+![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Language](https://img.shields.io/badge/Language-PowerShell_5.1%2B-2C5BB4?style=for-the-badge&logo=powershell&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-4CAF50?style=for-the-badge)
+
+<br>
+
+</div>
+
+> [!CAUTION]
 > **This is the Legacy / Demo version of LOCKON SDA.**
 >
-> This repository contains the original PowerShell-only proof-of-concept and is kept for historical reference.
->
-> **The Evolution: LOCKON SDA (Enterprise Edition)**
->
-> The project has since evolved into a full-scale **Enterprise-Grade Suite** (maintained privately), which features:
->
-> - **Cross-Platform CLI Scanner:** Compiled single-binary for Windows & Linux with 46+ security modules.
-> - **Desktop GUI Agent:** A modern Flet-based interface for end-users.
-> - **Centralized Command Center:** A React + FastAPI web dashboard for fleet management, compliance tracking, and AI-powered threat analysis.
-> - **Enterprise Reporting:** Interactive PDF, HTML, and JSON exports.
+> This repository contains the original PowerShell-only proof-of-concept. It is no longer actively maintained and is kept strictly for historical reference.
 
-![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![Language](https://img.shields.io/badge/Language-PowerShell_5.1%2B-2C5BB4?style=flat-square&logo=powershell&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-4CAF50?style=flat-square)
+---
+
+## The Evolution: Enterprise Edition
+
+The project has since evolved into a full-scale **Enterprise-Grade Suite** (maintained privately), which features:
+
+- **Cross-Platform CLI Scanner:** Compiled single-binary for Windows & Linux with 46+ security modules.
+- **Desktop GUI Agent:** A modern Flet-based interface for end-users.
+- **Centralized Command Center:** A React + FastAPI web dashboard for fleet management, compliance tracking, and AI-powered threat analysis.
+- **Enterprise Reporting:** Interactive PDF, HTML, and JSON exports.
+
+> 📢 **Coming Soon:** We are currently preparing to launch an official website to showcase the full Enterprise capabilities. Stay tuned!
+
+---
 
 **LOCKON: SYSTEM DIAGNOSTIC ANALYZER** is an automated PowerShell security auditing and forensics tool designed for Windows environments. It performs deep system inspections to detect misconfigurations, potential threats, and suspicious activities using a baseline-comparison approach.
 
