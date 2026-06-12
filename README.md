@@ -1,14 +1,6 @@
 <div align="center">
 
-# ⚠️ LOCKON: SYSTEM DIAGNOSTIC ANALYZER
-
-### (LEGACY DEMO)
-
-![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Language](https://img.shields.io/badge/Language-PowerShell_5.1%2B-2C5BB4?style=for-the-badge&logo=powershell&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-4CAF50?style=for-the-badge)
-
-<br>
+# LOCKON: SYSTEM DIAGNOSTIC ANALYZER <br> <sup>(LEGACY DEMO)</sup> <br> ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Language](https://img.shields.io/badge/Language-PowerShell_5.1%2B-2C5BB4?style=for-the-badge&logo=powershell&logoColor=white) ![License](https://img.shields.io/badge/License-MIT-4CAF50?style=for-the-badge)
 
 </div>
 
